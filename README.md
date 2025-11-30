@@ -61,3 +61,14 @@ Visión computacional mediante preprocesamiento de imágenes.
 Clasificación Zero-Shot usando modelos modernos de machine learning.
 
 Interacción visual a través de Pygame y Tkinter.
+
+<img width="1202" height="532" alt="image" src="https://github.com/user-attachments/assets/9ab9ab66-aa51-4384-97cd-a0d880746d65" />
+
+<img width="1300" height="376" alt="image" src="https://github.com/user-attachments/assets/f42c6416-62f3-471d-9adc-6bd14e6eb7ac" />
+
+<img width="1300" height="437" alt="image" src="https://github.com/user-attachments/assets/918129fe-2cf8-457b-bde9-58d2c7d745e8" />
+
+<img width="602" height="432" alt="image" src="https://github.com/user-attachments/assets/183618c1-86a3-42a8-a45f-96461ac52683" />
+
+
+
