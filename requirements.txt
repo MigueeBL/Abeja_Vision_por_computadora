@@ -1,0 +1,7 @@
+pygame
+opencv-python
+matplotlib
+pillow
+transformers
+torch
+tk
